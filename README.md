@@ -22,9 +22,6 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
 #### 🤖 Inteligência Artificial & Ciência de Dados
 | <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" /> | 
 | <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> |
@@ -35,7 +32,12 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **modern.studio** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./moderno.studio/) |
+| **modern studio** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./moderno.studio/) |
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **engenharia de prompt** | geração de imagens e textos usando prompt em IA. | [Ver Projeto](./corrida-do-prompt/) |
  
 ---
  
