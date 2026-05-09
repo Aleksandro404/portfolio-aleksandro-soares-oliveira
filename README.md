@@ -33,11 +33,8 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **modern studio** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./moderno.studio/) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **engenharia de prompt** | geração de imagens e textos usando prompt em IA. | [Ver Projeto](./corrida-do-prompt/) |
- 
+| **classificação visual** | Projeto de IA que utiliza classificação visual para identificar padrões em imagens e analisar vieses algorítmicos usando Google Teachable Machine. | [Ver Projeto](./classifição.visual/) |
 ---
  
 ### 🏗 Estrutura do Repositório
