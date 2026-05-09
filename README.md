@@ -37,6 +37,7 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 | **batalha das IAs** | Estudo Comparativo de IAs. | [Ver Projeto](./batalha.de.projetos.XML/) |
 | **engenharia reversa** | utilização da IA do google para fazer um site. | [Ver Projeto](./engenharia.reversa/) |
 | **do Clone ao Produto Mínimo Viável (MVP+)** | é um projeto de engenharia reversa assistida por Inteligência Artificial que utiliza IA Generativa para analisar, interpretar e reconstruir estruturas e funcionalidades de sistemas através de prompts e linguagem natural. | [Ver Projeto](./do.clone.ao.produto.minimo.viavel/) |
+| **Engenharia de Software e IA com Bubble.io** | Projeto web desenvolvido no Bubble.io com auxílio de Inteligência Artificial e Engenharia de Prompt para criação de automações, workflows e gerenciamento de dados em uma plataforma no-code. | [Ver Projeto](./engenharia.de.software.bubble/) |
 ---
  
 ### 🏗 Estrutura do Repositório
