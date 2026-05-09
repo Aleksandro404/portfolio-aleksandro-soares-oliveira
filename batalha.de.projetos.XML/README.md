@@ -116,7 +116,7 @@ Trabalho_pagina.pdf
 
 ## 📑 Documentação do Projeto
 
-📄 [Abrir PDF do Trabalho](./documentos/Trabalho_pagina.pdf)
+📄 [Abrir PDF do Trabalho](./Trabalho_pagina.pdf)
 
 ---
 ## 🎯 Objetivo Acadêmico
