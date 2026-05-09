@@ -39,9 +39,14 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 | **do Clone ao Produto Mínimo Viável (MVP+)** | é um projeto de engenharia reversa assistida por Inteligência Artificial que utiliza IA Generativa para analisar, interpretar e reconstruir estruturas e funcionalidades de sistemas através de prompts e linguagem natural. | [Ver Projeto](./do.clone.ao.produto.minimo.viavel/) |
 | **Engenharia de Software e IA com Bubble.io** | Projeto web desenvolvido no Bubble.io com auxílio de Inteligência Artificial e Engenharia de Prompt para criação de automações, workflows e gerenciamento de dados em uma plataforma no-code. | [Ver Projeto](./engenharia.de.software.bubble/) |
 ---
+ ### 🏗 Estrutura do Repositório
  
-### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- README.md: Arquivo de apresentação principal
+- /batalha.de.projetos.XML/: Pasta contendo a documentação do projeto Batalha de Modelos
+- /classificação.visual/: Pasta contendo a documentação do projeto Classificção Visual
+- /corrida-do-prompt/: Pasta contendo a documentação do projeto A Corrida do Prompt
+- /do.clone.ao.produto.minimo.viavel/: Pasta contendo a documentação do projeto Do Clone ao Produto Mínimo Viável (MVP+)
+- /engenharia.de.software.bubble/: Pasta contendo a documentação do projeto Engenharia de Software e IA com Bubble.io
+- /engenharia.reversa/: Pasta contendo a documentação e link do projeto Engenharia Reversa
