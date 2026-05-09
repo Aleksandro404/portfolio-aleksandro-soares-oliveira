@@ -105,7 +105,7 @@ projeto_com_bubble_ia.pdf
 
 ## 📑 Documentação
 
-📄 [Abrir PDF do Projeto](./documentos/projeto_com_bubble_ia.pdf)
+📄 [Abrir PDF do Projeto](./projeto_com_bubble_ia.pdf)
 
 ---
 
