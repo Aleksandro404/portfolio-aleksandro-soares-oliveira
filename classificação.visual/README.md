@@ -121,12 +121,6 @@ Posicione-se em frente à câmera para visualizar a classificação em tempo rea
 
 ---
 
-## 🖼️ Demonstração
-
-![Classificação Visual IA](https://via.placeholder.com/900x400.png?text=Laboratorio+de+Classificacao+Visual)
-
----
-
 ## 🌐 Link do Modelo
 
 🔗 https://teachablemachine.withgoogle.com/models/Vky3jeR1b/
