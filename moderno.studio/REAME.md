@@ -36,3 +36,5 @@ O projeto apresentou resultados positivos em testes de interação e automação
 ---
 
 [Acessar Projeto](https://ai.studio/apps/14c4dc80-6211-4802-a8ca-25baf5ec397f)
+
+[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
