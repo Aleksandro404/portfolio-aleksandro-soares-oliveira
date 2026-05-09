@@ -1,4 +1,4 @@
-# portifolio-aleksandro-soares-oliveira
+# portfolio-aleksandro-soares-oliveira
 
 > Estudante de Análise e Desenvolvimento de Sistemas
 
