@@ -35,7 +35,7 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **modern.studio** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./mordeno.studio/) |
+| **modern.studio** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./reame.md/) |
  
 ---
  
