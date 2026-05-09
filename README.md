@@ -34,7 +34,6 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **modern studio** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./moderno.studio/) |
 
-#### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **engenharia de prompt** | geração de imagens e textos usando prompt em IA. | [Ver Projeto](./corrida-do-prompt/) |
