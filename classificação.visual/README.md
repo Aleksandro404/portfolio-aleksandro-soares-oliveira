@@ -137,8 +137,3 @@ Este projeto foi desenvolvido com finalidade educacional para estudo de:
 - Classificação de Imagens
 - Ética em IA
 
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por Aleksandro Oliveira 🚀
