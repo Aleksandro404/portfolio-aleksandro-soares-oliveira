@@ -35,7 +35,7 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 | **engenharia de prompt** | geração de imagens e textos usando prompt em IA. | [Ver Projeto](./corrida-do-prompt/) |
 | **classificação visual** | Projeto de IA que utiliza classificação visual para identificar padrões em imagens e analisar vieses algorítmicos usando Google Teachable Machine. | [Ver Projeto](./classifição.visual/) |
 | **batalha das IAs** | Estudo Comparativo de IAs. | [Ver Projeto](./batalha.de.projetos.XML/) |
-| **engenharia reversa** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./moderno.studio/) |
+| **engenharia reversa** | utilização da IA do google para fazer um site. | [Ver Projeto](./engenharia.reversa/) |
 ---
  
 ### 🏗 Estrutura do Repositório
