@@ -7,18 +7,15 @@ A proposta do trabalho foi desenvolver um prompt estruturado em XML capaz de ger
 
 O prompt foi testado em diferentes modelos de Inteligência Artificial, incluindo ChatGPT, Gemini, Claude, DeepSeek, Qwen, Grok e Maritaca, permitindo comparar desempenho, precisão, criatividade, quantidade de tokens e qualidade do código gerado.
 
-Além da geração da página, o projeto também analisa como diferentes IAs interpretam instruções estruturadas e quais modelos apresentam maior eficiência em tarefas de desenvolvimento web automatizado.
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
-- Engenharia de Prompt
 - XML
+- Engenharia de Prompt
 - Inteligência Artificial Generativa
-- Google Teachable Machine
 - ChatGPT
 - Gemini
 - Claude
@@ -35,59 +32,39 @@ O projeto apresentou resultados relevantes sobre geração automática de códig
 
 ### Principais aprendizados:
 
-- Diferenças entre modelos de IA
 - Estruturação de prompts em XML
-- Geração automatizada de páginas HTML
-- Comparação de desempenho entre IAs
+- Geração automática de páginas HTML
+- Comparação entre modelos de IA
 - Análise de precisão e criatividade
-- Impacto da quantidade de tokens gerados
+- Avaliação de bugs e desempenho
+- Impacto da quantidade de tokens
 
 ---
 
-## 🧠 Relação entre o PDF e o Projeto
+## 📄 Relação com o PDF
 
-### 📄 Trabalho_pagina.pdf
+O arquivo `Trabalho_pagina.pdf` contém:
 
-O documento contém:
+- O prompt estruturado em XML utilizado no experimento
+- Os requisitos técnicos da página HTML
+- Comparações entre diferentes modelos de IA
+- Avaliações de precisão do código gerado
+- Análises de bugs, criatividade e desempenho
+- Reflexões críticas sobre os resultados obtidos
 
-- O prompt estruturado em XML
-- Requisitos técnicos da página HTML
-- Comparação entre diferentes modelos de IA
-- Avaliação de precisão do código gerado
-- Análise de bugs e criatividade
-- Reflexão crítica sobre desempenho das IAs
-
----
-
-## 🔍 Principais Observações
-
-### ✅ Modelo com melhor desempenho
-
-Segundo a análise realizada:
-
-- Claude apresentou maior precisão
-- DeepSeek apresentou ótima fluidez
-- ChatGPT foi eficiente para prototipagem rápida
+O PDF serve como documentação principal do projeto e base para os testes realizados com as Inteligências Artificiais.
 
 ---
 
-## ⚠️ Problemas Encontrados
+## 🧠 Modelos de IA Testados
 
-Alguns modelos apresentaram:
-
-- Botões sem funcionalidade
-- Erros em gráficos
-- Falhas no carregamento de imagens
-- Interface pouco fluida
-
----
-
-## 🌐 Relação com o Google Teachable Machine
-
-O projeto também se conecta com conceitos de Inteligência Artificial aplicados no Google Teachable Machine, demonstrando como diferentes modelos interpretam padrões e instruções para geração de resultados automatizados.
-
-🔗 Modelo utilizado:
-https://teachablemachine.withgoogle.com/models/Vky3jeR1b/
+- ChatGPT
+- Gemini
+- Claude
+- DeepSeek
+- Qwen
+- Grok
+- Maritaca
 
 ---
 
@@ -96,13 +73,13 @@ https://teachablemachine.withgoogle.com/models/Vky3jeR1b/
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/engenharia-prompt-ia.git
+git clone https://github.com/seu-usuario/promptxml-ai.git
 ```
 
 ### 2️⃣ Entre na pasta do projeto
 
 ```bash
-cd engenharia-prompt-ia
+cd promptxml-ai
 ```
 
 ### 3️⃣ Abra o arquivo HTML
@@ -111,16 +88,20 @@ cd engenharia-prompt-ia
 index.html
 ```
 
-### 4️⃣ Teste os prompts nas IAs
+### 4️⃣ Consulte a documentação
 
-Utilize o prompt XML presente no PDF para gerar páginas automaticamente em diferentes modelos de IA.
+Abra o arquivo:
+
+```bash
+Trabalho_pagina.pdf
+```
 
 ---
 
 ## 📁 Estrutura do Projeto
 
 ```bash
-📦 engenharia-prompt-ia
+📦 promptxml-ai
  ┣ 📂 documentos
  ┃ ┗ 📜 Trabalho_pagina.pdf
  ┣ 📂 prompts
@@ -133,12 +114,11 @@ Utilize o prompt XML presente no PDF para gerar páginas automaticamente em dife
 
 ---
 
-## 🖼️ Demonstração
+## 📑 Documentação do Projeto
 
-![Projeto Engenharia de Prompt](https://via.placeholder.com/900x400.png?text=Engenharia+de+Prompt+e+IA)
+📄 [Abrir PDF do Trabalho](./documentos/Trabalho_pagina.pdf)
 
 ---
-
 ## 🎯 Objetivo Acadêmico
 
 Este projeto foi desenvolvido com finalidade educacional para estudo de:
@@ -146,5 +126,5 @@ Este projeto foi desenvolvido com finalidade educacional para estudo de:
 - Engenharia de Prompt
 - Inteligência Artificial Generativa
 - Desenvolvimento Web
-- Geração Automática de Código
+- Estruturação de Prompts em XML
 - Comparação entre Modelos de IA
