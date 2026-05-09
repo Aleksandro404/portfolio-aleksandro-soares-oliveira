@@ -35,7 +35,7 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **modern.studio** | criação de botões funcionais usando formas e cores. | [Ver Projeto](./mordeno.studio/) |
  
 ---
  
