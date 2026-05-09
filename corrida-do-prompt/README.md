@@ -139,8 +139,4 @@ cd projeto-engenharia-prompt
 
 ![Astronauta Barroco em Marte](https://via.placeholder.com/900x400.png?text=Projeto+de+IA+Generativa)
 
----
 
-## 👨‍💻 Autor
-
-Desenvolvido por Aleksandro Oliveira 🚀
