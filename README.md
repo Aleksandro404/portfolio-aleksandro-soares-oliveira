@@ -36,6 +36,7 @@ Atualmente cursando o 1º período de Análise e desenvolvimento de Sistemas na 
 | **classificação visual** | Projeto de IA que utiliza classificação visual para identificar padrões em imagens e analisar vieses algorítmicos usando Google Teachable Machine. | [Ver Projeto](./classifição.visual/) |
 | **batalha das IAs** | Estudo Comparativo de IAs. | [Ver Projeto](./batalha.de.projetos.XML/) |
 | **engenharia reversa** | utilização da IA do google para fazer um site. | [Ver Projeto](./engenharia.reversa/) |
+| **do Clone ao Produto Mínimo Viável (MVP+)** | é um projeto de engenharia reversa assistida por Inteligência Artificial que utiliza IA Generativa para analisar, interpretar e reconstruir estruturas e funcionalidades de sistemas através de prompts e linguagem natural. | [Ver Projeto](./do.clone.ao.produto.minimo.viavel/) |
 ---
  
 ### 🏗 Estrutura do Repositório
