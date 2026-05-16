@@ -133,10 +133,4 @@ cd projeto-engenharia-prompt
 
 4️⃣ Analise os prompts e os resultados gerados pela IA
 
----
-
-## 🖼️ Demonstração
-
-![Astronauta Barroco em Marte](https://via.placeholder.com/900x400.png?text=Projeto+de+IA+Generativa)
-
 
