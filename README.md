@@ -6,7 +6,8 @@
  
 ### 📫 Contato & Redes Sociais
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksandrokomi@gmail.com)
- 
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1hAbGQlIMzY1hGjZijbXysDJ5kaIMn4WE/view?usp=drivesdk)
+
 ---
  
 ### 👨‍💻 Sobre
